@@ -2,10 +2,10 @@
 .env
 
 # dependencies
-/node_modules/*
-# !node_modules/nft.storage
+/node_modules
 /.pnp
 .pnp.js
+/TODO.txt
 
 # testing
 /coverage
