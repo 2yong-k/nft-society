@@ -3,7 +3,6 @@
 
 # dependencies
 /node_modules
-!/node_modules/nft.storage
 /.pnp
 .pnp.js
 
